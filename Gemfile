@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
 # An object-relational mapper
 # https://guides.rubyonrails.org/active_record_basics.html
